@@ -4,7 +4,7 @@ const Footer = () => {
   return (  
      <div>
       <div style={{height:'60%',background:'black'}}>
-        <h1> I amm Footer </h1>            
+        <h1> @Copy-right 2020 </h1>            
   </div>
 </div>
   );

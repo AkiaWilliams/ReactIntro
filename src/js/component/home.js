@@ -1,6 +1,6 @@
 import React from "react";
 import Navbar from "./Navbar";
-import Jumbotron from "./jumbotron";
+import Jumbotron from "../component/Jumbotron";
 
 //include images into your bundle
 import rigoImage from "../../img/rigo-baby.jpg";
